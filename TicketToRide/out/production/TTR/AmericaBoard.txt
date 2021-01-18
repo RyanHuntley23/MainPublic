@@ -1,0 +1,137 @@
+{ Vancouver 0 0 S }
+{ Seattle 0 0 B }
+{ Portland 0 0 R }
+{ Calgary 0 0 R }
+{ San_Francisco 0 0 R }
+{ Los_Angeles 0 0 B }
+{ Las_Vegas 0 0 S }
+{ Salt_Lake_City 0 0 R }
+{ Phoenix 0 0 R }
+{ Helena 0 0 R }
+{ Winnipeg 0 0 R }
+{ Duluth 0 0 R }
+{ Omaha 0 0 R }
+{ Sault_St._Marie 0 0 R }
+{ Chicago 0 0 B }
+{ Toronto 0 0 R }
+{ Pittsburgh 0 0 R }
+{ Washington 0 0 R }
+{ New_York 0 0 B }
+{ Montreal 0 0 S }
+{ Boston 0 0 S }
+{ Denver 0 0 R }
+{ Santa_Fe 0 0 R }
+{ El_Paso 0 0 R }
+{ Houston 0 0 B }
+{ Dallas 0 0 B }
+{ Oklahoma_City 0 0 R }
+{ Kansas_City 0 0 R }
+{ Saint_Louis 0 0 R }
+{ Little_Rock 0 0 R }
+{ Nashville 0 0 R }
+{ New_Orleans 0 0 R }
+{ Atlanta 0 0 R }
+{ Raleigh 0 0 R }
+{ Charleston 0 0 R }
+{ Miami 0 0 B }
+---
+{ Vancouver Seattle gray 1 N X }
+{ Vancouver Seattle gray 1 N X }
+{ Vancouver Calgary gray 3 N X }
+{ Seattle Portland gray 1 N X }
+{ Seattle Portland gray 1 N X }
+{ Seattle Calgary gray 4 N X }
+{ Seattle Helena yellow 6 N X }
+{ Portland Salt_Lake_City blue 6 N X }
+{ Portland San_Francisco green 5 N X }
+{ Portland San_Francisco pink 5 N X }
+{ Calgary Winnipeg white 6 N X }
+{ Calgary Helena gray 4 N X }
+{ San_Francisco Salt_Lake_City orange 5 N X }
+{ San_Francisco Salt_Lake_City white 5 N X }
+{ San_Francisco Los_Angeles pink 3 N X }
+{ San_Francisco Los_Angeles yellow 3 N X }
+{ Los_Angeles Las_Vegas gray 2 N X }
+{ Los_Angeles Phoenix gray 3 N X }
+{ Los_Angeles El_Paso black 6 N X }
+{ Las_Vegas Salt_Lake_City orange 3 N X }
+{ Salt_Lake_City Helena pink 3 N X }
+{ Salt_Lake_City Denver red 3 N X }
+{ Salt_Lake_City Denver yellow 3 N X }
+{ Phoenix Denver white 5 N X }
+{ Phoenix Santa_Fe gray 3 N X }
+{ Phoenix El_Paso gray 3 N X }
+{ Helena Winnipeg blue 4 N X }
+{ Helena Denver green 4 N X }
+{ Helena Duluth orange 6 N X }
+{ Helena Omaha red 5 N X }
+{ Winnipeg Duluth black 4 N X }
+{ Winnipeg Sault_St._Marie gray 6 N X }
+{ Duluth Sault_St._Marie gray 3 N X }
+{ Duluth Omaha gray 2 N X }
+{ Duluth Omaha gray 2 N X }
+{ Duluth Chicago red 3 N X }
+{ Duluth Toronto pink 6 N X }
+{ Omaha Denver pink 4 N X }
+{ Omaha Chicago blue 4 N X }
+{ Omaha Kansas_City gray 1 N X }
+{ Omaha Kansas_City gray 1 N X }
+{ Sault_St._Marie Montreal black 5 N X }
+{ Sault_St._Marie Toronto gray 2 N X }
+{ Chicago Toronto white 4 N X }
+{ Chicago Saint_Louis white 2 N X }
+{ Chicago Saint_Louis green 2 N X }
+{ Chicago Pittsburgh orange 3 N X }
+{ Chicago Pittsburgh black 3 N X }
+{ Toronto Montreal gray 3 N X }
+{ Toronto Pittsburgh gray 2 N X }
+{ Pittsburgh Saint_Louis green 5 N X }
+{ Pittsburgh Nashville yellow 4 N X }
+{ Pittsburgh Raleigh gray 2 N X }
+{ Pittsburgh Washington gray 2 N X }
+{ Pittsburgh New_York green 2 N X }
+{ Pittsburgh New_York white 2 N X }
+{ Washington New_York orange 2 N X }
+{ Washington New_York black 2 N X }
+{ Washington Raleigh gray 2 N X }
+{ Washington Raleigh gray 2 N X }
+{ Montreal New_York blue 3 N X }
+{ Montreal Boston gray 2 N X }
+{ Montreal Boston gray 2 N X }
+{ Boston New_York red 2 N X }
+{ Boston New_York yellow 2 N X }
+{ Denver Kansas_City orange 4 N X }
+{ Denver Kansas_City black 4 N X }
+{ Denver Oklahoma_City red 4 N X }
+{ Denver Santa_Fe gray 2 N X }
+{ Santa_Fe El_Paso gray 2 N X }
+{ Santa_Fe Oklahoma_City blue 3 N X }
+{ El_Paso Oklahoma_City yellow 5 N X }
+{ El_Paso Dallas red 4 N X }
+{ El_Paso Houston green 6 N X }
+{ Houston Dallas gray 1 N X }
+{ Houston Dallas gray 1 N X }
+{ Houston New_Orleans gray 2 N X }
+{ Dallas Oklahoma_City gray 2 N X }
+{ Dallas Oklahoma_City gray 2 N X }
+{ Dallas Little_Rock gray 2 N X }
+{ Oklahoma_City Kansas_City gray 2 N X }
+{ Oklahoma_City Kansas_City gray 2 N X }
+{ Oklahoma_City Little_Rock gray 2 N X }
+{ Kansas_City Saint_Louis pink 2 N X }
+{ Kansas_City Saint_Louis blue 2 N X }
+{ Saint_Louis Nashville gray 2 N X }
+{ Saint_Louis Little_Rock gray 2 N X }
+{ Little_Rock Nashville white 3 N X }
+{ Little_Rock New_Orleans green 3 N X }
+{ Nashville Atlanta gray 1 N X }
+{ Nashville Raleigh black 3 N X }
+{ New_Orleans Atlanta yellow 4 N X }
+{ New_Orleans Atlanta orange 4 N X }
+{ New_Orleans Miami red 6 N X }
+{ Atlanta Raleigh gray 2 N X }
+{ Atlanta Raleigh gray 2 N X }
+{ Atlanta Charleston gray 2 N X }
+{ Atlanta Miami blue 5 N X }
+{ Raleigh Charleston gray 2 N X }
+{ Charleston Miami pink 4 N X }

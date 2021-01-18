@@ -1,0 +1,481 @@
+{ Vancouver 0 0 R }
+{ Seattle 0 0 B }
+{ Portland 0 0 R }
+{ Calgary 0 0 R }
+{ San_Francisco 0 0 R }
+{ Los_Angeles 0 0 B }
+{ Las_Vegas 0 0 S }
+{ Salt_Lake_City 0 0 R }
+{ Phoenix 0 0 R }
+{ Helena 0 0 R }
+{ Winnipeg 0 0 R }
+{ Duluth 0 0 R }
+{ Omaha 0 0 R }
+{ Sault_St._Marie 0 0 R }
+{ Chicago 0 0 B }
+{ Toronto 0 0 R }
+{ Pittsburgh 0 0 R }
+{ Washington 0 0 R }
+{ New_York 0 0 B }
+{ Montreal 0 0 S }
+{ Boston 0 0 R }
+{ Denver 0 0 R }
+{ Santa_Fe 0 0 R }
+{ El_Paso 0 0 R }
+{ Houston 0 0 B }
+{ Dallas 0 0 B }
+{ Oklahoma_City 0 0 R }
+{ Kansas_City 0 0 R }
+{ Saint_Louis 0 0 R }
+{ Little_Rock 0 0 R }
+{ Nashville 0 0 R }
+{ New_Orleans 0 0 R }
+{ Atlanta 0 0 R }
+{ Raleigh 0 0 R }
+{ Charleston 0 0 R }
+{ Miami 0 0 B }
+{ Edinburgh 27 90 S }
+{ London 31 73 B }
+{ Dieppe 30 65 R }
+{ Brest 24 63 R }
+{ Bruxelles 35 69 R }
+{ Amsterdam 36 73 R }
+{ Paris 33 61 B }
+{ Pamplona 29 46 R }
+{ Barcelona 30 38 R }
+{ Madrid 21 38 B }
+{ Lisboa 18 37 R }
+{ Cadiz 22 32 S }
+{ Essen 42 73 R }
+{ Kobenhavn 46 83 R }
+{ Stockholm 53 90 S }
+{ Frankfurt 41 65 R }
+{ Munchen 44 61 R }
+{ Wien 51 60 B }
+{ Berlin 48 72 B }
+{ Danzic 55 78 R }
+{ Warszawa 58 71 R }
+{ Rica 61 89 R }
+{ Wilno 66 73 R }
+{ Kyiv 68 65 R }
+{ Petrograd 71 87 R }
+{ Smolensk 72 72 R }
+{ Moskva 77 74 B }
+{ Kharkov 76 60 R }
+{ Marseille 38 46 R }
+{ Zurich 40 55 R }
+{ Venezia 45 51 R }
+{ Roma 46 44 B }
+{ Palermo 48 30 S }
+{ Brindisi 51 40 R }
+{ Zagrab 50 50 R }
+{ Budapest 54 57 R }
+{ Sarajevo 56 45 R }
+{ Athina 59 31 B }
+{ Sofia 60 43 R }
+{ Bucuresti 64 48 R }
+{ Smyrna 64 29 R }
+{ Constantinople 67 37 R }
+{ Angora 72 30 B }
+{ Sevastopol 73 46 R }
+{ Rostov 79 53 R }
+{ Sochi 78 46 R }
+{ Erzurum 77 32 R }
+{ Kabul 0 0 R }
+{ Sukkur 0 0 R }
+{ Karachi 0 0 B }
+{ Baroda 0 0 R }
+{ Bombay 0 0 R }
+{ Madras 0 0 R }
+{ Bangalore 0 0 B }
+{ Hyderabad 0 0 R }
+{ Nagpur 0 0 R }
+{ Cawnpore 0 0 R }
+{ Delhi 0 0 B }
+{ Lahore 0 0 R }
+{ Rawalpindi 0 0 R }
+{ Kashgar 0 0 R }
+{ Dihua 0 0 R }
+{ Lhasa 0 0 S }
+{ Kathmandu 0 0 S }
+{ Dacca 0 0 R }
+{ Calcutta 0 0 R }
+{ Mandalay 0 0 R }
+{ Rangoon 0 0 R }
+{ Chiang_Mai 0 0 R }
+{ Kunming 0 0 R }
+{ Jiuquan 0 0 R }
+{ Ulan_Bator 0 0 R }
+{ Yinchuan 0 0 R }
+{ Lanchow 0 0 R }
+{ Chengdu 0 0 B }
+{ Chungking 0 0 R }
+{ Nanning 0 0 R }
+{ Xian 0 0 R }
+{ Vientiane 0 0 R }
+{ Hanoi 0 0 R }
+{ Fort_Bayard 0 0 S }
+{ Hong_Kong 0 0 B }
+{ Canton 0 0 R }
+{ Foochow 0 0 R }
+{ Shanghai 0 0 B }
+{ Peking 0 0 R }
+{ Hankow 0 0 R }
+{ Nanchang 0 0 R }
+{ Mukden 0 0 R }
+{ Harbin 0 0 R }
+{ AsiaCity1 0 0 X }
+{ AsiaCity2 0 0 X }
+{ AsiaCity3 0 0 X }
+---
+{ Vancouver Seattle gray 1 N X }
+{ Vancouver Seattle gray 1 N X }
+{ Vancouver Calgary gray 3 N X }
+{ Seattle Portland gray 1 N X }
+{ Seattle Portland gray 1 N X }
+{ Seattle Calgary gray 4 N X }
+{ Seattle Helena yellow 6 N X }
+{ Portland Salt_Lake_City blue 6 N X }
+{ Portland San_Francisco green 5 N X }
+{ Portland San_Francisco pink 5 N X }
+{ Calgary Winnipeg white 6 N X }
+{ Calgary Helena gray 4 N X }
+{ San_Francisco Salt_Lake_City orange 5 N X }
+{ San_Francisco Salt_Lake_City white 5 N X }
+{ San_Francisco Los_Angeles pink 3 N X }
+{ San_Francisco Los_Angeles yellow 3 N X }
+{ Los_Angeles Las_Vegas gray 2 N X }
+{ Los_Angeles Phoenix gray 3 N X }
+{ Los_Angeles El_Paso black 6 N X }
+{ Las_Vegas Salt_Lake_City orange 3 N X }
+{ Salt_Lake_City Helena pink 3 N X }
+{ Salt_Lake_City Denver red 3 N X }
+{ Salt_Lake_City Denver yellow 3 N X }
+{ Phoenix Denver white 5 N X }
+{ Phoenix Santa_Fe gray 3 N X }
+{ Phoenix El_Paso gray 3 N X }
+{ Helena Winnipeg blue 4 N X }
+{ Helena Denver green 4 N X }
+{ Helena Duluth orange 6 N X }
+{ Helena Omaha red 5 N X }
+{ Winnipeg Duluth black 4 N X }
+{ Winnipeg Sault_St._Marie gray 6 N X }
+{ Duluth Sault_St._Marie gray 3 N X }
+{ Duluth Omaha gray 2 N X }
+{ Duluth Omaha gray 2 N X }
+{ Duluth Chicago red 3 N X }
+{ Duluth Toronto pink 6 N X }
+{ Omaha Denver pink 4 N X }
+{ Omaha Chicago blue 4 N X }
+{ Omaha Kansas_City gray 1 N X }
+{ Omaha Kansas_City gray 1 N X }
+{ Sault_St._Marie Montreal black 5 N X }
+{ Sault_St._Marie Toronto gray 2 N X }
+{ Chicago Toronto white 4 N X }
+{ Chicago Saint_Louis white 2 N X }
+{ Chicago Saint_Louis green 2 N X }
+{ Chicago Pittsburgh orange 3 N X }
+{ Chicago Pittsburgh black 3 N X }
+{ Toronto Montreal gray 3 N X }
+{ Toronto Pittsburgh gray 2 N X }
+{ Pittsburgh Saint_Louis green 5 N X }
+{ Pittsburgh Nashville yellow 4 N X }
+{ Pittsburgh Raleigh gray 2 N X }
+{ Pittsburgh Washington gray 2 N X }
+{ Pittsburgh New_York green 2 N X }
+{ Pittsburgh New_York white 2 N X }
+{ Washington New_York orange 2 N X }
+{ Washington New_York black 2 N X }
+{ Washington Raleigh gray 2 N X }
+{ Washington Raleigh gray 2 N X }
+{ Montreal New_York blue 3 N X }
+{ Montreal Boston gray 2 N X }
+{ Montreal Boston gray 2 N X }
+{ Boston New_York red 2 N X }
+{ Boston New_York yellow 2 N X }
+{ Denver Kansas_City orange 4 N X }
+{ Denver Kansas_City black 4 N X }
+{ Denver Oklahoma_City red 4 N X }
+{ Denver Santa_Fe gray 2 N X }
+{ Santa_Fe El_Paso gray 2 N X }
+{ Santa_Fe Oklahoma_City blue 3 N X }
+{ El_Paso Oklahoma_City yellow 5 N X }
+{ El_Paso Dallas red 4 N X }
+{ El_Paso Houston green 6 N X }
+{ Houston Dallas gray 1 N X }
+{ Houston Dallas gray 1 N X }
+{ Houston New_Orleans gray 2 N X }
+{ Dallas Oklahoma_City gray 2 N X }
+{ Dallas Oklahoma_City gray 2 N X }
+{ Dallas Little_Rock gray 2 N X }
+{ Oklahoma_City Kansas_City gray 2 N X }
+{ Oklahoma_City Kansas_City gray 2 N X }
+{ Oklahoma_City Little_Rock gray 2 N X }
+{ Kansas_City Saint_Louis pink 2 N X }
+{ Kansas_City Saint_Louis blue 2 N X }
+{ Saint_Louis Nashville gray 2 N X }
+{ Saint_Louis Little_Rock gray 2 N X }
+{ Little_Rock Nashville white 3 N X }
+{ Little_Rock New_Orleans green 3 N X }
+{ Nashville Atlanta gray 1 N X }
+{ Nashville Raleigh black 3 N X }
+{ New_Orleans Atlanta yellow 4 N X }
+{ New_Orleans Atlanta orange 4 N X }
+{ New_Orleans Miami red 6 N X }
+{ Atlanta Raleigh gray 2 N X }
+{ Atlanta Raleigh gray 2 N X }
+{ Atlanta Charleston gray 2 N X }
+{ Atlanta Miami blue 5 N X }
+{ Raleigh Charleston gray 2 N X }
+{ Charleston Miami pink 4 N X }
+{ Edinburgh London orange 4 N X }
+{ Edinburgh London black 4 N X }
+{ London Amsterdam gray 2 F 2 }
+{ Dieppe London gray 2 F 1 }
+{ Dieppe London gray 2 F 1 }
+{ Dieppe Brest orange 2 N X }
+{ Dieppe Bruxelles green 2 N X }
+{ Dieppe Paris pink 1 N X }
+{ Brest Paris black 3 N X }
+{ Brest Pamplona pink 4 N X }
+{ Bruxelles Amsterdam black 1 N X }
+{ Bruxelles Frankfurt blue 2 N X }
+{ Bruxelles Paris yellow 2 N X }
+{ Bruxelles Paris red 2 N X }
+{ Amsterdam Essen yellow 3 N X }
+{ Amsterdam Frankfurt white 2 N X }
+{ Paris Frankfurt white 3 N X }
+{ Paris Frankfurt orange 3 N X }
+{ Paris Zurich gray 3 T X }
+{ Paris Marseille gray 4 N X }
+{ Paris Pamplona blue 4 N X }
+{ Paris Pamplona green 4 N X }
+{ Pamplona Madrid black 3 T X }
+{ Pamplona Madrid white 3 T X }
+{ Pamplona Barcelona gray 2 T X }
+{ Pamplona Marseille red 4 N X }
+{ Barcelona Madrid yellow 2 N X }
+{ Barcelona Marseille gray 4 N X }
+{ Madrid Lisboa pink 3 N X }
+{ Madrid Cadiz orange 3 N X }
+{ Lisboa Cadiz blue 2 N X }
+{ Essen Frankfurt green 2 N X }
+{ Essen Berlin blue 2 N X }
+{ Essen Kobenhavn gray 3 F 1 }
+{ Essen Kobenhavn gray 3 F 1 }
+{ Kobenhavn Stockholm yellow 3 N X }
+{ Kobenhavn Stockholm white 3 N X }
+{ Stockholm Petrograd gray 8 T X }
+{ Frankfurt Munchen pink 2 N X }
+{ Frankfurt Berlin black 3 N X }
+{ Frankfurt Berlin red 3 N X }
+{ Munchen Zurich yellow 2 T X }
+{ Munchen Venezia blue 2 T X }
+{ Munchen Wien orange 3 T X }
+{ Wien Zagrab gray 2 N X }
+{ Wien Budapest red 1 N X }
+{ Wien Budapest white 1 N X }
+{ Wien Berlin green 3 N X }
+{ Wien Warszawa blue 4 N X }
+{ Berlin Danzic gray 4 N X }
+{ Berlin Warszawa pink 4 N X }
+{ Berlin Warszawa yellow 4 N X }
+{ Danzic Warszawa gray 2 N X }
+{ Danzic Rica black 3 N X }
+{ Warszawa Wilno red 3 N X }
+{ Warszawa Kyiv gray 4 N X }
+{ Rica Wilno green 4 N X }
+{ Rica Petrograd gray 4 N X }
+{ Wilno Kyiv gray 2 N X }
+{ Wilno Petrograd blue 4 N X }
+{ Wilno Smolensk yellow 3 N X }
+{ Kyiv Smolensk red 3 N X }
+{ Kyiv Kharkov gray 4 N X }
+{ Kyiv Bucuresti gray 4 N X }
+{ Kyiv Budapest gray 6 T X }
+{ Petrograd Moskva white 4 N X }
+{ Smolensk Moskva orange 2 N X }
+{ Moskva Kharkov gray 4 N X }
+{ Kharkov Rostov green 2 N X }
+{ Marseille Zurich pink 2 T X }
+{ Marseille Roma gray 4 T X }
+{ Zurich Venezia green 2 T X }
+{ Venezia Zagrab gray 2 N X }
+{ Venezia Roma black 2 N X }
+{ Roma Brindisi white 2 N X }
+{ Roma Palermo gray 4 F 1 }
+{ Palermo Brindisi gray 3 F 1 }
+{ Palermo Smyrna gray 6 F 2 }
+{ Brindisi Athina gray 4 F 1 }
+{ Zagrab Budapest orange 2 N X }
+{ Zagrab Sarajevo red 3 N X }
+{ Budapest Sarajevo pink 3 N X }
+{ Budapest Bucuresti gray 4 T X }
+{ Sarajevo Sofia gray 2 T X }
+{ Sarajevo Athina green 4 N X }
+{ Athina Sofia pink 3 N X }
+{ Athina Smyrna gray 2 F 1 }
+{ Sofia Bucuresti gray 2 T X }
+{ Sofia Constantinople blue 3 N X }
+{ Bucuresti Sevastopol white 4 N X }
+{ Bucuresti Constantinople yellow 3 N X }
+{ Smyrna Constantinople gray 2 T X }
+{ Smyrna Angora orange 3 T X }
+{ Constantinople Angora gray 2 T X }
+{ Constantinople Sevastopol gray 4 F 2 }
+{ Angora Erzurum black 3 N X }
+{ Sevastopol Erzurum gray 4 F 2 }
+{ Sevastopol Sochi gray 2 F 1 }
+{ Sevastopol Rostov gray 4 N X }
+{ Sochi Rostov gray 2 N X }
+{ Sochi Erzurum red 3 T X }
+{ Kabul Kashgar yellow 3 T X }
+{ Kabul Rawalpindi white 1 T X }
+{ Kabul Sukkur orange 2 T X }
+{ Sukkur Rawalpindi red 3 N X }
+{ Sukkur Lahore green 3 N X }
+{ Sukkur Karachi black 1 N X }
+{ Karachi Delhi pink 3 N X }
+{ Karachi Baroda white 2 N X }
+{ Baroda Delhi blue 3 N X }
+{ Baroda Delhi yellow 3 N X }
+{ Baroda Bombay black 1 N X }
+{ Baroda Bombay green 1 N X }
+{ Baroda Cawnpore orange 3 N X }
+{ Bombay Nagpur yellow 2 N X }
+{ Bombay Hyderabad blue 2 N X }
+{ Bombay Bangalore pink 4 N X }
+{ Bombay Bangalore white 4 N X }
+{ Bangalore Madras green 1 N X }
+{ Bangalore Madras blue 1 N X }
+{ Bangalore Hyderabad red 2 N X }
+{ Madras Calcutta yellow 5 N X }
+{ Madras Calcutta black 5 N X }
+{ Hyderabad Nagpur pink 1 N X }
+{ Hyderabad Calcutta orange 4 N X }
+{ Nagpur Cawnpore black 2 N X }
+{ Nagpur Calcutta green 3 N X }
+{ Cawnpore Delhi green 2 N X }
+{ Cawnpore Calcutta white 3 N X }
+{ Cawnpore Kathmandu yellow 1 T X }
+{ Cawnpore AsiaCity2 red 6 N X }
+{ Delhi Kathmandu white 3 T X }
+{ Delhi Lahore red 1 N X }
+{ Delhi Lahore orange 1 N X }
+{ Lahore Rawalpindi blue 1 N X }
+{ Lahore AsiaCity1 white 2 T X }
+{ Rawalpindi Kashgar black 2 T X }
+{ Rawalpindi AsiaCity1 pink 2 T X }
+{ Kashgar AsiaCity1 red 3 N X }
+{ Kashgar Dihua orange 4 N X }
+{ Dihua AsiaCity1 blue 5 N X }
+{ Dihua Jiuquan white 5 N X }
+{ Dihua Ulan_Bator gray 7 N X }
+{ AsiaCity1 Lhasa black 5 N X }
+{ Calcutta Dacca red 1 N X }
+{ Calcutta Dacca blue 1 N X }
+{ Calcutta Dacca pink 1 N X }
+{ Dacca AsiaCity2 yellow 2 N X }
+{ Dacca Mandalay gray 2 N X }
+{ Dacca Mandalay gray 2 N X }
+{ Lhasa AsiaCity2 gray 1 T X }
+{ Lhasa AsiaCity3 yellow 3 N X }
+{ AsiaCity2 AsiaCity3 orange 1 T X }
+{ AsiaCity2 Kunming gray 3 N X }
+{ AsiaCity2 Mandalay black 2 N X }
+{ Mandalay Kunming gray 3 N X }
+{ Mandalay Kunming gray 3 N X }
+{ Mandalay Rangoon gray 2 N X }
+{ Mandalay Rangoon gray 2 N X }
+{ Rangoon Chiang_Mai gray 1 N X }
+{ Rangoon Chiang_Mai gray 1 N X }
+{ Mandalay Chiang_Mai gray 1 N X }
+{ Mandalay Chiang_Mai gray 1 N X }
+{ Chiang_Mai Vientiane gray 1 N X }
+{ Chiang_Mai Vientiane gray 1 N X }
+{ Chiang_Mai Kunming pink 3 N X }
+{ Vientiane Hanoi gray 1 N X }
+{ Vientiane Hanoi gray 1 N X }
+{ Hanoi Kunming green 2 N X }
+{ Hanoi Nanning gray 1 N X }
+{ Hanoi Nanning gray 1 N X }
+{ AsiaCity3 Kunming blue 2 N X }
+{ AsiaCity3 Chengdu red 2 N X }
+{ AsiaCity3 Lanchow green 4 N X }
+{ Kunming Chengdu black 2 N X }
+{ Kunming Chengdu white 2 N X }
+{ Kunming Nanning red 2 N X }
+{ Kunming Nanning orange 2 N X }
+{ Jiuquan Ulan_Bator pink 3 N X }
+{ Jiuquan Yinchuan red 2 N X }
+{ Jiuquan Lanchow black 2 N X }
+{ Lanchow Yinchuan blue 1 N X }
+{ Lanchow Xian red 2 N X }
+{ Lanchow Chengdu gray 3 N X }
+{ Yinchuan Peking pink 3 N X }
+{ Yinchuan Ulan_Bator orange 3 N X }
+{ Ulan_Bator Peking green 5 N X }
+{ Ulan_Bator Harbin gray 6 N X }
+{ Ulan_Bator Harbin gray 6 N X }
+{ Harbin Peking blue 3 N X }
+{ Harbin Mukden pink 2 N X }
+{ Harbin Mukden yellow 2 N X }
+{ Mukden Peking red 2 N X }
+{ Mukden Peking white 2 N X }
+{ Peking Xian yellow 3 N X }
+{ Peking Xian black 3 N X }
+{ Peking Shanghai blue 4 N X }
+{ Peking Shanghai red 4 N X }
+{ Peking Shanghai green 4 N X }
+{ Xian Hankow green 1 N X }
+{ Xian Hankow white 1 N X }
+{ Xian Chengdu pink 3 N X }
+{ Xian Chungking orange 3 N X }
+{ Chengdu Chungking yellow 1 N X }
+{ Chengdu Chungking green 1 N X }
+{ Chungking Hankow gray 3 N X }
+{ Chungking Nanning blue 1 N X }
+{ Chungking Nanning white 1 N X }
+{ Nanning Fort_Bayard black 1 N X }
+{ Nanning Canton green 1 N X }
+{ Nanning Canton pink 1 N X }
+{ Fort_Bayard Canton yellow 1 N X }
+{ Canton Hong_Kong red 1 N X }
+{ Canton Hong_Kong white 1 N X }
+{ Canton Hankow gray 3 N X }
+{ Canton Foochow black 3 N X }
+{ Canton Foochow orange 3 N X }
+{ Canton Foochow blue 3 N X }
+{ Hankow Shanghai orange 2 N X }
+{ Hankow Shanghai black 2 N X }
+{ Hankow Nanchang pink 1 N X }
+{ Hankow Nanchang blue 1 N X }
+{ Nanchang Foochow green 1 N X }
+{ Nanchang Foochow red 1 N X }
+{ Foochow Shanghai white 2 N X }
+{ Foochow Shanghai yellow 2 N X }
+{ Foochow Shanghai pink 2 N X }
+{ Vancouver Harbin pink 8 N X }
+{ Vancouver Harbin yellow 8 N X }
+{ Portland Shanghai yellow 8 N X }
+{ Portland Shanghai red 8 N X }
+{ San_Francisco Foochow red 8 N X }
+{ San_Francisco Foochow white 8 N X }
+{ Los_Angeles Hong_Kong green 9 N X }
+{ Los_Angeles Hong_Kong blue 9 N X }
+{ New_York London red 8 N X }
+{ New_York London pink 8 N X }
+{ Washington Brest blue 8 N X }
+{ Washington Brest white 8 N X }
+{ Charleston Pamplona yellow 8 N X }
+{ Charleston Pamplona green 8 N X }
+{ Miami Lisboa white 7 N X }
+{ Miami Lisboa green 7 N X }
+{ Petrograd Kabul yellow 7 N X }
+{ Petrograd Kabul white 7 N X }
+{ Moskva Sukkur pink 7 N X }
+{ Moskva Sukkur red 7 N X }
+{ Rostov Baroda green 7 N X }
+{ Rostov Baroda blue 7 N X }
+{ Erzurum Bangalore pink 7 N X }
+{ Erzurum Bangalore blue 7 N X }

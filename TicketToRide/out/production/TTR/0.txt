@@ -1,0 +1,107 @@
+Seed: 0
+
+Minimum number of routes: Erzurum - 2
+Maximum number of routes: Paris - 8
+Total number of routes: 80
+Number of routes with length smaller than 12: 45
+
+Number of routes into Wien: 6 (Maximum length: 11)
+Number of routes into Moskva: 5 (Maximum length: 18)
+Number of routes into Madrid: 4 (Maximum length: 20)
+Number of routes into Berlin: 5 (Maximum length: 16)
+Number of routes into Roma: 7 (Maximum length: 12)
+Number of routes into London: 5 (Maximum length: 18)
+Number of routes into Athina: 4 (Maximum length: 16)
+Number of routes into Angora: 6 (Maximum length: 17)
+Number of routes into Paris: 8 (Maximum length: 20)
+
+Total number of routes into big cities: 50
+Total number of routes connecting big cities: 8
+
+Number of routes into Palermo: 2 (Maximum length: 12)
+Number of routes into Lisboa: 2 (Maximum length: 15)
+Number of routes into Erzurum: 2 (Maximum length: 20)
+Number of routes into Edinburgh: 3 (Maximum length: 18)
+Number of routes into Cadiz: 2 (Maximum length: 21)
+Number of routes into Stockholm: 2 (Maximum length: 15)
+
+London to Paris: 3          (big city)
+Munchen to Zagrab: 4
+Bruxelles to Essen: 4
+Kharkov to Sochi: 4
+Venezia to Brindisi: 4
+Budapest to Sofia: 5
+Wilno to Moskva: 5          (big city)
+Kyiv to Moskva: 5          (big city)
+Bucuresti to Angora: 5          (big city)
+Paris to Venezia: 5          (big city)
+Warszawa to Rica: 5
+Frankfurt to Roma: 6          (big city)
+London to Munchen: 6          (big city)
+Edinburgh to Dieppe: 6
+Rica to Kyiv: 6
+Frankfurt to Zagrab: 6
+Zurich to Brindisi: 6
+Brest to Frankfurt: 6
+Marseille to Wien: 7          (big city)
+Wien to Kyiv: 7          (big city)
+Dieppe to Barcelona: 7
+Brest to Marseille: 7
+Roma to Smyrna: 8          (big city)
+Pamplona to Roma: 8          (big city)
+Bruxelles to Roma: 8          (big city)
+Berlin to Kyiv: 8          (big city)
+Wien to Athina: 8          (big city)
+Smolensk to Rostov: 8
+Wilno to Constantinople: 9
+Frankfurt to Sarajevo: 9
+Dieppe to Kobenhavn: 9
+Palermo to Angora: 9          (big city)
+Zagrab to Sevastopol: 10
+Roma to Bucuresti: 10          (big city)
+Warszawa to Sofia: 10
+London to Budapest: 10          (big city)
+Lisboa to Paris: 10          (big city)
+Paris to Danzic: 10          (big city)
+Wien to Smyrna: 10          (big city)
+London to Roma: 10          (big city)
+Madrid to Venezia: 10          (big city)
+Wien to Petrograd: 11          (big city)
+Frankfurt to Sofia: 11
+Zagrab to Rica: 11
+Pamplona to Wien: 11          (big city)
+Smolensk to Angora: 12          (big city)
+Kobenhavn to Wilno: 12
+Pamplona to Palermo: 12
+Roma to Kyiv: 12          (big city)
+Brindisi to Sevastopol: 12
+Budapest to Petrograd: 12
+Zurich to Constantinople: 12
+Marseille to Danzic: 13
+Zagrab to Stockholm: 13
+Cadiz to Amsterdam: 13
+Madrid to Berlin: 13          (big city)
+Essen to Athina: 13          (big city)
+Paris to Wilno: 13          (big city)
+Berlin to Angora: 13          (big city)
+Berlin to Rostov: 14          (big city)
+Athina to Moskva: 14          (big city)
+Pamplona to Stockholm: 15
+Kobenhavn to Moskva: 15          (big city)
+Lisboa to Essen: 15
+Berlin to Erzurum: 16          (big city)
+Brest to Athina: 16          (big city)
+Zurich to Petrograd: 16
+Madrid to Warszawa: 17          (big city)
+Amsterdam to Kharkov: 17
+Bruxelles to Angora: 17          (big city)
+Paris to Angora: 17          (big city)
+Edinburgh to Sarajevo: 17
+Edinburgh to Bucuresti: 18
+London to Smyrna: 18          (big city)
+Dieppe to Petrograd: 18
+Paris to Moskva: 18          (big city)
+Madrid to Constantinople: 20          (big city)
+Paris to Erzurum: 20          (big city)
+Cadiz to Smyrna: 21
+Barcelona to Sochi: 22

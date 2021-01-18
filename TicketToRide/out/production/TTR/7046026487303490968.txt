@@ -1,0 +1,243 @@
+Seed: 7046026487303490968
+
+Minimum number of routes: Kobenhavn - 0
+Maximum number of routes: Paris - 11
+Total number of routes: 200
+Number of routes with length smaller than 12: 40
+
+Number of routes into Delhi: 4 (Maximum length: 35)
+Number of routes into Seattle: 6 (Maximum length: 30)
+Number of routes into Chicago: 4 (Maximum length: 39)
+Number of routes into Shanghai: 10 (Maximum length: 40)
+Number of routes into Berlin: 9 (Maximum length: 31)
+Number of routes into New_York: 10 (Maximum length: 38)
+Number of routes into Hong_Kong: 4 (Maximum length: 34)
+Number of routes into Angora: 2 (Maximum length: 31)
+Number of routes into Los_Angeles: 3 (Maximum length: 22)
+Number of routes into Miami: 5 (Maximum length: 42)
+Number of routes into Bangalore: 4 (Maximum length: 39)
+Number of routes into Wien: 4 (Maximum length: 36)
+Number of routes into Moskva: 6 (Maximum length: 39)
+Number of routes into Karachi: 5 (Maximum length: 30)
+Number of routes into Madrid: 8 (Maximum length: 43)
+Number of routes into Chengdu: 5 (Maximum length: 36)
+Number of routes into Roma: 5 (Maximum length: 36)
+Number of routes into London: 3 (Maximum length: 33)
+Number of routes into Athina: 3 (Maximum length: 33)
+Number of routes into Dallas: 3 (Maximum length: 10)
+Number of routes into Paris: 11 (Maximum length: 36)
+Number of routes into Houston: 6 (Maximum length: 38)
+
+Total number of routes into big cities: 120
+Total number of routes connecting big cities: 19
+
+Number of routes into Palermo: 2 (Maximum length: 25)
+Number of routes into Kathmandu: 5 (Maximum length: 34)
+Number of routes into Edinburgh: 0 (Maximum length: 0)
+Number of routes into Cadiz: 3 (Maximum length: 41)
+Number of routes into Lhasa: 1 (Maximum length: 20)
+Number of routes into Fort_Bayard: 2 (Maximum length: 29)
+Number of routes into Montreal: 3 (Maximum length: 40)
+Number of routes into Las_Vegas: 2 (Maximum length: 15)
+Number of routes into Stockholm: 2 (Maximum length: 27)
+
+Kabul to Delhi: 3          (big city)
+Dallas to New_Orleans: 3          (big city)
+Zurich to Frankfurt: 4
+Hankow to Hong_Kong: 4          (big city)
+Toronto to New_York: 4          (big city)
+Little_Rock to Kansas_City: 4
+Oklahoma_City to Saint_Louis: 4
+Erzurum to Rostov: 5
+Pamplona to Dieppe: 5
+Paris to Venezia: 5          (big city)
+Kathmandu to Rawalpindi: 5
+Dacca to Hyderabad: 5
+Chungking to Shanghai: 5          (big city)
+Shanghai to Nanning: 6          (big city)
+Paris to Berlin: 6          (big city)
+Dallas to Chicago: 6          (big city)
+Kathmandu to Bangalore: 6          (big city)
+Helena to Santa_Fe: 6
+Salt_Lake_City to Omaha: 7
+Foochow to Jiuquan: 7
+Chicago to Houston: 7          (big city)
+Little_Rock to Pittsburgh: 7
+Mandalay to Lanchow: 7
+Berlin to Bucuresti: 8          (big city)
+Karachi to Moskva: 8          (big city)
+Omaha to El_Paso: 8
+Yinchuan to Vientiane: 8
+Los_Angeles to Seattle: 9          (big city)
+Miami to Little_Rock: 9          (big city)
+Athina to Kyiv: 9          (big city)
+Ulan_Bator to Nanning: 9
+Kunming to Nagpur: 9
+Budapest to Kharkov: 10
+Helena to Dallas: 10          (big city)
+Danzic to Bucuresti: 10
+Paris to Warszawa: 10          (big city)
+Oklahoma_City to Washington: 10
+Wien to Smolensk: 10          (big city)
+Madrid to Frankfurt: 10          (big city)
+New_York to Paris: 11          (big city)
+Atlanta to Barcelona: 12
+Chiang_Mai to Kabul: 12
+Cawnpore to Yinchuan: 12
+Omaha to San_Francisco: 12
+Berlin to Moskva: 12          (big city)
+New_York to Houston: 12          (big city)
+Nagpur to Hankow: 13
+San_Francisco to Chungking: 13
+Kabul to Chungking: 13
+Paris to Wilno: 13          (big city)
+Washington to Santa_Fe: 13
+El_Paso to Pittsburgh: 13
+Karachi to Kyiv: 13          (big city)
+Houston to Las_Vegas: 13          (big city)
+Chiang_Mai to Los_Angeles: 14          (big city)
+London to Bucuresti: 14          (big city)
+San_Francisco to Saint_Louis: 14
+Oklahoma_City to Seattle: 14          (big city)
+Chengdu to San_Francisco: 14          (big city)
+Charleston to Phoenix: 14
+Essen to Moskva: 14          (big city)
+New_York to El_Paso: 15          (big city)
+Chicago to Seattle: 15          (big city)
+Baroda to Xian: 15
+Karachi to Nanning: 15          (big city)
+Baroda to Hong_Kong: 15          (big city)
+Lisboa to Essen: 15
+Las_Vegas to Hankow: 15
+Duluth to Brest: 16
+Hyderabad to Ulan_Bator: 16
+Amsterdam to Smyrna: 16
+Xian to Calgary: 16
+Atlanta to Bruxelles: 16
+Seattle to Little_Rock: 16          (big city)
+Bangalore to Petrograd: 17          (big city)
+Kashgar to Harbin: 17
+Little_Rock to Madrid: 17          (big city)
+Sukkur to Sofia: 18
+Raleigh to Roma: 18          (big city)
+Saint_Louis to Bruxelles: 18
+Raleigh to Venezia: 18
+Paris to Kharkov: 18          (big city)
+Miami to Zurich: 18          (big city)
+Montreal to Berlin: 18          (big city)
+Mukden to Delhi: 19          (big city)
+Raleigh to Berlin: 19          (big city)
+El_Paso to Chengdu: 19          (big city)
+Brindisi to Petrograd: 19
+New_York to Cadiz: 19          (big city)
+Portland to Dacca: 19
+Lhasa to Phoenix: 20
+Montreal to Vancouver: 20
+Miami to Roma: 20          (big city)
+Madrid to Wilno: 20          (big city)
+Paris to Rostov: 20          (big city)
+Shanghai to Sukkur: 20          (big city)
+Santa_Fe to Barcelona: 21
+Lanchow to Rostov: 21
+Hankow to Winnipeg: 21
+Sault_St._Marie to Berlin: 21          (big city)
+Hanoi to Angora: 22          (big city)
+New_York to Palermo: 22          (big city)
+Little_Rock to Foochow: 22
+Omaha to Hankow: 22
+Los_Angeles to Kathmandu: 22          (big city)
+Chiang_Mai to Calgary: 22
+Cawnpore to Berlin: 23          (big city)
+Houston to Nanchang: 23          (big city)
+Jiuquan to Rostov: 23
+Saint_Louis to Shanghai: 23          (big city)
+Nanning to Winnipeg: 23
+Lisboa to Wilno: 23
+Lahore to Munchen: 23
+Salt_Lake_City to London: 24          (big city)
+Nanchang to Rostov: 24
+Sukkur to Roma: 24          (big city)
+Seattle to Cawnpore: 24          (big city)
+Denver to Bruxelles: 24
+Charleston to Wilno: 25
+Peking to Oklahoma_City: 25
+Calcutta to Palermo: 25
+Madras to Stockholm: 26
+El_Paso to Zurich: 26
+Hyderabad to Zurich: 26
+Kathmandu to Vancouver: 26
+Salt_Lake_City to Paris: 26          (big city)
+Canton to Constantinople: 26
+Santa_Fe to Frankfurt: 26
+Fort_Bayard to Constantinople: 26
+Saint_Louis to Kunming: 26
+Kansas_City to Wien: 26          (big city)
+Shanghai to Toronto: 26          (big city)
+Foochow to Raleigh: 27
+Chengdu to Sofia: 27          (big city)
+Delhi to Paris: 27          (big city)
+Miami to Stockholm: 27          (big city)
+Bangalore to Paris: 27          (big city)
+Mukden to Erzurum: 27
+Denver to Berlin: 28          (big city)
+Dacca to Kansas_City: 28
+Calgary to Madrid: 28          (big city)
+Calcutta to Essen: 28
+Cadiz to Moskva: 28          (big city)
+Fort_Bayard to Danzic: 29
+Karachi to Brest: 29          (big city)
+Kansas_City to Athina: 29          (big city)
+Kunming to Sarajevo: 29
+Shanghai to Wilno: 29          (big city)
+Shanghai to New_York: 29          (big city)
+Dacca to Venezia: 29
+Seattle to Amsterdam: 30          (big city)
+Mandalay to Roma: 30          (big city)
+Charleston to Sochi: 30
+Salt_Lake_City to Venezia: 30
+Karachi to Pamplona: 30          (big city)
+San_Francisco to Madrid: 30          (big city)
+Chengdu to Budapest: 31          (big city)
+Toronto to Angora: 31          (big city)
+Rangoon to Berlin: 31          (big city)
+Hyderabad to Pamplona: 31
+Madras to Denver: 31
+Kashgar to El_Paso: 31
+Rawalpindi to Madrid: 32          (big city)
+Chiang_Mai to Toronto: 33
+Portland to Petrograd: 33
+New_York to Kunming: 33          (big city)
+Calcutta to London: 33          (big city)
+Shanghai to Athina: 33          (big city)
+Kansas_City to Smolensk: 34
+Hong_Kong to Wien: 34          (big city)
+Portland to Zurich: 34
+Hong_Kong to Brindisi: 34          (big city)
+Houston to Kyiv: 34          (big city)
+Ulan_Bator to Zagrab: 34
+Omaha to Kathmandu: 34
+Omaha to Delhi: 35          (big city)
+Shanghai to Wien: 36          (big city)
+Jiuquan to Roma: 36          (big city)
+Chengdu to Paris: 36          (big city)
+Oklahoma_City to Smolensk: 36
+Vancouver to Kharkov: 37
+Xian to Venezia: 37
+New_York to Cawnpore: 38          (big city)
+Houston to Moskva: 38          (big city)
+Baroda to Duluth: 38
+El_Paso to Kyiv: 38
+Calcutta to New_York: 38          (big city)
+Helena to Erzurum: 39
+Chicago to Bangalore: 39          (big city)
+Salt_Lake_City to Moskva: 39          (big city)
+Jiuquan to Pamplona: 40
+Montreal to Bombay: 40
+Chungking to Madrid: 40          (big city)
+San_Francisco to Sofia: 40
+San_Francisco to Sarajevo: 40
+Shanghai to Bruxelles: 40          (big city)
+Dacca to Cadiz: 41
+Ulan_Bator to Brest: 41
+Madras to Miami: 42          (big city)
+Lanchow to Madrid: 43          (big city)

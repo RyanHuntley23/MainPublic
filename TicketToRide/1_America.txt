@@ -1,0 +1,92 @@
+Seed: 0
+
+Minimum number of routes: Charleston - 2
+Maximum number of routes: Chicago - 8
+Total number of routes: 69
+Number of routes with length smaller than 12: 44
+
+Number of routes into Seattle: 3 (Maximum length: 22)
+Number of routes into Chicago: 8 (Maximum length: 15)
+Number of routes into New_York: 6 (Maximum length: 21)
+Number of routes into Dallas: 6 (Maximum length: 16)
+Number of routes into Los_Angeles: 4 (Maximum length: 19)
+Number of routes into Houston: 4 (Maximum length: 18)
+Number of routes into Miami: 6 (Maximum length: 22)
+
+Total number of routes into big cities: 37
+Total number of routes connecting big cities: 7
+
+Number of routes into Vancouver: 3 (Maximum length: 21)
+Number of routes into Montreal: 5 (Maximum length: 16)
+Number of routes into Las_Vegas: 2 (Maximum length: 17)
+Number of routes into Boston: 6 (Maximum length: 23)
+
+Saint_Louis to Omaha: 3
+Little_Rock to Chicago: 4          (big city)
+New_Orleans to Saint_Louis: 5
+Chicago to Washington: 5          (big city)
+New_York to Chicago: 5          (big city)
+Montreal to Washington: 5
+Nashville to Dallas: 5          (big city)
+Houston to Saint_Louis: 5          (big city)
+Saint_Louis to Raleigh: 5
+Omaha to Atlanta: 6
+Nashville to Miami: 6          (big city)
+Little_Rock to Charleston: 6
+Duluth to Pittsburgh: 6
+Dallas to Chicago: 6          (big city)
+Pittsburgh to Little_Rock: 7
+Pittsburgh to Kansas_City: 7
+Boston to Chicago: 7          (big city)
+Omaha to Toronto: 7
+Oklahoma_City to Salt_Lake_City: 7
+El_Paso to Kansas_City: 7
+Salt_Lake_City to El_Paso: 7
+Los_Angeles to Helena: 8          (big city)
+Toronto to Kansas_City: 8
+Houston to Miami: 8          (big city)
+San_Francisco to Denver: 8
+Sault_St._Marie to Atlanta: 8
+Dallas to Charleston: 8          (big city)
+Toronto to Winnipeg: 8
+Denver to Chicago: 8          (big city)
+Houston to Duluth: 8          (big city)
+New_York to Omaha: 9          (big city)
+Nashville to El_Paso: 9
+Salt_Lake_City to Dallas: 9          (big city)
+Portland to Denver: 9
+San_Francisco to Calcary: 10
+New_York to Miami: 10          (big city)
+Montreal to Little_Rock: 11
+New_York to Oklahoma_City: 11          (big city)
+Omaha to Boston: 11
+Winnipeg to Dallas: 11          (big city)
+Toronto to Helena: 11
+Montreal to Kansas_City: 11
+Chicago to Salt_Lake_City: 11          (big city)
+Nashville to Salt_Lake_City: 11
+Miami to Boston: 12          (big city)
+Winnipeg to Atlanta: 12
+San_Francisco to Omaha: 12
+El_Paso to Raleigh: 12
+Pheonix to Vancouver: 13
+Calcary to Pheonix: 13
+Montreal to New_Orleans: 13
+Sault_St._Marie to Pheonix: 14
+New_Orleans to Winnipeg: 14
+Atlanta to Las_Vegas: 15
+Chicago to Los_Angeles: 15          (big city)
+El_Paso to New_York: 15          (big city)
+Seattle to Dallas: 16          (big city)
+Montreal to Santa_Fe: 16
+Boston to Santa_Fe: 16
+Miami to Pheonix: 16          (big city)
+Raleigh to Los_Angeles: 17          (big city)
+Pittsburgh to Las_Vegas: 17
+Vancouver to Houston: 18          (big city)
+Los_Angeles to Washington: 19          (big city)
+Portland to Raleigh: 20
+New_York to Vancouver: 21          (big city)
+Seattle to Miami: 22          (big city)
+Seattle to Boston: 22          (big city)
+Boston to San_Francisco: 23

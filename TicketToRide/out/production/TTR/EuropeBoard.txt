@@ -1,0 +1,149 @@
+{ Edinburgh 27 90 S }
+{ London 31 73 B }
+{ Dieppe 30 65 R }
+{ Brest 24 63 R }
+{ Bruxelles 35 69 R }
+{ Amsterdam 36 73 R }
+{ Paris 33 61 B }
+{ Pamplona 29 46 R }
+{ Barcelona 30 38 R }
+{ Madrid 21 38 B }
+{ Lisboa 18 37 S }
+{ Cadiz 22 32 S }
+{ Essen 42 73 R }
+{ Kobenhavn 46 83 R }
+{ Stockholm 53 90 S }
+{ Frankfurt 41 65 R }
+{ Munchen 44 61 R }
+{ Wien 51 60 B }
+{ Berlin 48 72 B }
+{ Danzic 55 78 R }
+{ Warszawa 58 71 R }
+{ Rica 61 89 R }
+{ Wilno 66 73 R }
+{ Kyiv 68 65 R }
+{ Petrograd 71 87 R }
+{ Smolensk 72 72 R }
+{ Moskva 77 74 B }
+{ Kharkov 76 60 R }
+{ Marseille 38 46 R }
+{ Zurich 40 55 R }
+{ Venezia 45 51 R }
+{ Roma 46 44 B }
+{ Palermo 48 30 S }
+{ Brindisi 51 40 R }
+{ Zagrab 50 50 R }
+{ Budapest 54 57 R }
+{ Sarajevo 56 45 R }
+{ Athina 59 31 B }
+{ Sofia 60 43 R }
+{ Bucuresti 64 48 R }
+{ Smyrna 64 29 R }
+{ Constantinople 67 37 R }
+{ Angora 72 30 B }
+{ Sevastopol 73 46 R }
+{ Rostov 79 53 R }
+{ Sochi 78 46 R }
+{ Erzurum 77 32 S }
+---
+{ Edinburgh London orange 4 N X }
+{ Edinburgh London black 4 N X }
+{ London Amsterdam gray 2 F 2 }
+{ Dieppe London gray 2 F 1 }
+{ Dieppe London gray 2 F 1 }
+{ Dieppe Brest orange 2 N X }
+{ Dieppe Bruxelles green 2 N X }
+{ Dieppe Paris pink 1 N X }
+{ Brest Paris black 3 N X }
+{ Brest Pamplona pink 4 N X }
+{ Bruxelles Amsterdam black 1 N X }
+{ Bruxelles Frankfurt blue 2 N X }
+{ Bruxelles Paris yellow 2 N X }
+{ Bruxelles Paris red 2 N X }
+{ Amsterdam Essen yellow 3 N X }
+{ Amsterdam Frankfurt white 2 N X }
+{ Paris Frankfurt white 3 N X }
+{ Paris Frankfurt orange 3 N X }
+{ Paris Zurich gray 3 T X }
+{ Paris Marseille gray 4 N X }
+{ Paris Pamplona blue 4 N X }
+{ Paris Pamplona green 4 N X }
+{ Pamplona Madrid black 3 T X }
+{ Pamplona Madrid white 3 T X }
+{ Pamplona Barcelona gray 2 T X }
+{ Pamplona Marseille red 4 N X }
+{ Barcelona Madrid yellow 2 N X }
+{ Barcelona Marseille gray 4 N X }
+{ Madrid Lisboa pink 3 N X }
+{ Madrid Cadiz orange 3 N X }
+{ Lisboa Cadiz blue 2 N X }
+{ Essen Frankfurt green 2 N X }
+{ Essen Berlin blue 2 N X }
+{ Essen Kobenhavn gray 3 F 1 }
+{ Essen Kobenhavn gray 3 F 1 }
+{ Kobenhavn Stockholm yellow 3 N X }
+{ Kobenhavn Stockholm white 3 N X }
+{ Stockholm Petrograd gray 8 T X }
+{ Frankfurt Munchen pink 2 N X }
+{ Frankfurt Berlin black 3 N X }
+{ Frankfurt Berlin red 3 N X }
+{ Munchen Zurich yellow 2 T X }
+{ Munchen Venezia blue 2 T X }
+{ Munchen Wien orange 3 T X }
+{ Wien Zagrab gray 2 N X }
+{ Wien Budapest red 1 N X }
+{ Wien Budapest white 1 N X }
+{ Wien Berlin green 3 N X }
+{ Wien Warszawa blue 4 N X }
+{ Berlin Danzic gray 4 N X }
+{ Berlin Warszawa pink 4 N X }
+{ Berlin Warszawa yellow 4 N X }
+{ Danzic Warszawa gray 2 N X }
+{ Danzic Rica black 3 N X }
+{ Warszawa Wilno red 3 N X }
+{ Warszawa Kyiv gray 4 N X }
+{ Rica Wilno green 4 N X }
+{ Rica Petrograd gray 4 N X }
+{ Wilno Kyiv gray 2 N X }
+{ Wilno Petrograd blue 4 N X }
+{ Wilno Smolensk yellow 3 N X }
+{ Kyiv Smolensk red 3 N X }
+{ Kyiv Kharkov gray 4 N X }
+{ Kyiv Bucuresti gray 4 N X }
+{ Kyiv Budapest gray 6 T X }
+{ Petrograd Moskva white 4 N X }
+{ Smolensk Moskva orange 2 N X }
+{ Moskva Kharkov gray 4 N X }
+{ Kharkov Rostov green 2 N X }
+{ Marseille Zurich pink 2 T X }
+{ Marseille Roma gray 4 T X }
+{ Zurich Venezia green 2 T X }
+{ Venezia Zagrab gray 2 N X }
+{ Venezia Roma black 2 N X }
+{ Roma Brindisi white 2 N X }
+{ Roma Palermo gray 4 F 1 }
+{ Palermo Brindisi gray 3 F 1 }
+{ Palermo Smyrna gray 6 F 2 }
+{ Brindisi Athina gray 4 F 1 }
+{ Zagrab Budapest orange 2 N X }
+{ Zagrab Sarajevo red 3 N X }
+{ Budapest Sarajevo pink 3 N X }
+{ Budapest Bucuresti gray 4 T X }
+{ Sarajevo Sofia gray 2 T X }
+{ Sarajevo Athina green 4 N X }
+{ Athina Sofia pink 3 N X }
+{ Athina Smyrna gray 2 F 1 }
+{ Sofia Bucuresti gray 2 T X }
+{ Sofia Constantinople blue 3 N X }
+{ Bucuresti Sevastopol white 4 N X }
+{ Bucuresti Constantinople yellow 3 N X }
+{ Smyrna Constantinople gray 2 T X }
+{ Smyrna Angora orange 3 T X }
+{ Constantinople Angora gray 2 T X }
+{ Constantinople Sevastopol gray 4 F 2 }
+{ Angora Erzurum black 3 N X }
+{ Sevastopol Erzurum gray 4 F 2 }
+{ Sevastopol Sochi gray 2 F 1 }
+{ Sevastopol Rostov gray 4 N X }
+{ Sochi Rostov gray 2 N X }
+{ Sochi Erzurum red 3 T X }
