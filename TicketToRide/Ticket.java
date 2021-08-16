@@ -27,7 +27,13 @@ public class Ticket {
             c1 = cityB;
             c2 = cityA;
         }
-        length = findTicketLength();
+        int l = b.getTLM(cityA.index(), cityB.index());
+        if (l == -1) {
+            length = findTicketLength();
+            b.setTLM(cityA.index(), cityB.index(), length);
+        } else {
+            length = l;
+        }
     }
 
     /** @return first city on ticket */

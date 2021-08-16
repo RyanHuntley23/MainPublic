@@ -32,29 +32,27 @@ public class Board {
     private HashSet<String> bigCities = new HashSet<>();
     /** Names of special cities to test at the end. */
     private HashSet<String> specialCities = new HashSet<>();
+    /** Matrix of all computed ticket distances. */
+    private int[][] ticketLengthMatrix;
 
     /** Constructor.
      *  @param mapFilename text file containing all cities and all routes
      *  @param ticketFilename image file that is the basis for all tickets */
-    public Board(String mapFilename, String ticketFilename, long s) {
+    public Board(String mapFilename, String ticketFilename) {
         ticketFileJPG = ticketFilename;
-        seed = s;
-        rand = new Random(seed);
         cities = new HashMap<>();
         routes = new HashSet<>();
-        tickets = new HashSet<>();
         cityWeightList = new ArrayList<>();
         buildCitiesRoutes(mapFilename);
     }
 
     /** Generates random tickets for this board.
-     *  @param numTickets number of tickets to generate */
-    public void randomTickets(int numTickets) {
-        for (City c : cities.values()) {
-            for (int i = 0; i < c.weight(); i += 1) {
-                cityWeightList.add(c);
-            }
-        }
+     *  @param numTickets number of tickets to generate
+     *  @param s seed to randomly generate new tickets */
+    public void randomTickets(int numTickets, long s) {
+        tickets = new HashSet<>();
+        seed = s;
+        rand = new Random(seed);
         for (int i = 0; i < numTickets; i += 1) {
             constructTicket();
         }
@@ -86,6 +84,21 @@ public class Board {
         return cities;
     }
 
+    /** @param i1 index of the first city
+     *  @param i2 index of the second city
+     *  @return the requested entry of ticketLengthMatrix */
+    public int getTLM(int i1, int i2) {
+        return ticketLengthMatrix[i1][i2];
+    }
+
+    /** Sets a single entry in the ticketLengthMatrix
+     *  @param i1 index of the first city
+     *  @param i2 index of the second city
+     *  @param d distance between the two cities */
+    public void setTLM(int i1, int i2, int d) {
+        ticketLengthMatrix[i1][i2] = d;
+    }
+
     /** Fills the cities and routes set using mapFilename.
      *  @param filename complete data on the board containing all
      *  cities and all routes */
@@ -108,6 +121,23 @@ public class Board {
                 }
             }
             myReader.close();
+            int numCities = cities.size();
+            ticketLengthMatrix = new int[numCities][numCities];
+            int counter = 0;
+            for (City c : cities.values()) {
+                c.setIndex(counter);
+                counter += 1;
+            }
+            for (int i = 0; i < numCities; i += 1) {
+                for (int j = 0; j < numCities; j += 1) {
+                    ticketLengthMatrix[i][j] = -1;
+                }
+            }
+            for (City c : cities.values()) {
+                for (int i = 0; i < c.weight(); i += 1) {
+                    cityWeightList.add(c);
+                }
+            }
         } catch (FileNotFoundException e) {
             System.out.println("Error: file not found");
             e.printStackTrace();
@@ -502,8 +532,8 @@ public class Board {
     /** For testing. */
     public void runTests() {
         TicketDrawer r = new TicketDrawer("Pictures\\Route_Template.jpg");
-        City c1 = cities.get("Sochi");
-        City c2 = cities.get("Edinburgh");
+        City c1 = cities.get("London");
+        City c2 = cities.get("Moskva");
         Ticket t = new Ticket(this, c1, c2);
         r.drawTicket(t);
     }

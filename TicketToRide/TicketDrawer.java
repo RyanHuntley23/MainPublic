@@ -21,7 +21,7 @@ public class TicketDrawer {
     /** Width of line connecting the two cities. */
     private static final double LINEWIDTH = 0.012;
     /** Scaled width of city dot. */
-    private static final double CITYWIDTHSCALE = 0.0813;
+    private static final double CITYWIDTHSCALE = 0.085;
     /** Scaled height of city dot. */
     private static final double CITYHEIGHTSCALE = 0.128;
     /** Font used for number (route length). */
@@ -37,7 +37,7 @@ public class TicketDrawer {
     /** Y-coordinate of center of number. */
     private static final double NAMEY = 0.19;
     /** Path of source folder for TTR. */
-    private static final String SOURCE = "C:\\Users\\Ryan\\Desktop\\Ryan_Files\\Projects\\TTR\\";
+    private static final String SOURCE = "C:\\Users\\Ryan\\Desktop\\Ryan_Files\\GitHub\\TicketToRide\\";
     /** Index of current ticket. */
     private int ticketIndex;
 

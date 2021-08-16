@@ -16,6 +16,8 @@ public class City {
     private double y;
     /** Type of city. */
     private CityType type;
+    /** Index of city. */
+    private int index;
 
     /** Constructor.
      *  @param n name
@@ -59,6 +61,17 @@ public class City {
     /** @return type */
     public CityType type() {
         return type;
+    }
+
+    /** Sets index of city.
+     *  @param i the index to set */
+    public void setIndex(int i) {
+        index = i;
+    }
+
+    /** @return index */
+    public int index() {
+        return index;
     }
 
     /** Adds a route to routeList.
